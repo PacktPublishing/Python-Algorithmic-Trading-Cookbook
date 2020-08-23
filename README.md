@@ -2,10 +2,10 @@
 Python Algorithmic Trading Cookbook, published by Packt
 
 #### Table of Contents
-**[List of Chapters in this book](#list)**<br>
-**[List of Recipes in this book](#list)**<br>
-**[To get the most out of this book](#most)**<br>
-**[Requirements](#requirements)**<br>
+- **[List of Chapters in this book](#list)**<br>
+- **[List of Recipes in this book](#list)**<br>
+- **[To get the most out of this book](#most)**<br>
+- **[Requirements](#requirements)**<br>
 
 <a name = "list"/>
 
@@ -193,17 +193,17 @@ execution logs and various types of Real Trading reports including P&L
 
 
 ### Chapter 8: Algorithmic Trading: Coding Strategies Step-by-Step
-1. EMA-Regular-Order Strategy: Coding the '\_\_init\_\_', 'initialize', 'name' and 'versions_supported' methods
-2. EMA-Regular-Order Strategy: Coding the 'strategy_select_instruments_for_entry' method
-3. EMA-Regular-Order Strategy: Coding the 'strategy_enter_position' method
-4. EMA-Regular-Order Strategy: Coding the 'strategy_select_instruments_for_exit' method
-5. EMA-Regular-Order Strategy: Coding the 'strategy_exit_position' method
+1. EMA-Regular-Order Strategy: Coding the `__init__`, `initialize`, `name` and `versions_supported` methods
+2. EMA-Regular-Order Strategy: Coding the `strategy_select_instruments_for_entry` method
+3. EMA-Regular-Order Strategy: Coding the `strategy_enter_position` method
+4. EMA-Regular-Order Strategy: Coding the `strategy_select_instruments_for_exit` method
+5. EMA-Regular-Order Strategy: Coding the `strategy_exit_position` method
 6. EMA-Regular-Order Strategy: Uploading the strategy on AlgoBulls Trading Platform
-7. MACD-Bracket-Order Strategy: Coding the '\_\_init\_\_', 'initialize', 'name' and 'versions_supported' method
-8. MACD-Bracket-Order Strategy: Coding the 'strategy_select_instruments_for_entry' method
-9. MACD-Bracket-Order Strategy: Coding the 'strategy_enter_position' method
-10. MACD-Bracket-Order Strategy: Coding the 'strategy_select_instruments_for_exit' method
-11. MACD-Bracket-Order Strategy: Coding the 'strategy_exit_position' method
+7. MACD-Bracket-Order Strategy: Coding the `__init__`, `initialize`, `name` and `versions_supported` method
+8. MACD-Bracket-Order Strategy: Coding the `strategy_select_instruments_for_entry` method
+9. MACD-Bracket-Order Strategy: Coding the `strategy_enter_position` method
+10. MACD-Bracket-Order Strategy: Coding the `strategy_select_instruments_for_exit` method
+11. MACD-Bracket-Order Strategy: Coding the `strategy_exit_position` method
 12. MACD-Bracket-Order Strategy: Uploading the strategy on AlgoBulls Trading Platform
 
 ### Chapter 9: Algorithmic Trading: Backtesting
