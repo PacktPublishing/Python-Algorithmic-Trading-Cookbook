@@ -3,7 +3,7 @@ Python Algorithmic Trading Cookbook, published by Packt
 
 #### Table of Contents
 - **[List of Chapters in this book](#list)**<br>
-- **[List of Recipes in this book](#list)**<br>
+- **[List of Recipes in this book](#recipes)**<br>
 - **[To get the most out of this book](#most)**<br>
 - **[Requirements](#requirements)**<br>
 
@@ -89,6 +89,8 @@ execution logs and various types of Real Trading reports including P&L
  reports and statistics reports in real-time for your strategy.
 
 *[**[Click here to view Chapter 11 Jupyter Notebook on nbviewer](https://nbviewer.jupyter.org/github/PacktPublishing/Python-Algorithmic-Trading-Cookbook/blob/master/Chapter11/CHAPTER%2011.ipynb)**]*
+
+<a name = "recipes"/>
 
 ## List of Recipes in this Book:
 
