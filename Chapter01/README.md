@@ -5,6 +5,6 @@ to handle time series data efficiently.
 *[**[Click here to view this Jupyter Notebook on nbviewer](https://nbviewer.jupyter.org/github/PacktPublishing/Python-Algorithmic-Trading-Cookbook/blob/master/Chapter01/CHAPTER%201.ipynb)**]*
 
 ### Requirements
-- Python 3.8+
+- Python 3.7+
 
 [No additional Python packages required]

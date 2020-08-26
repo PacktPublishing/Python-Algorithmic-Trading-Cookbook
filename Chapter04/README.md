@@ -6,7 +6,7 @@ and Heikin-Ashi.
 *[**[Click here to view this Jupyter Notebook & interact with charts on nbviewer](https://nbviewer.jupyter.org/github/PacktPublishing/Python-Algorithmic-Trading-Cookbook/blob/master/Chapter04/CHAPTER%204.ipynb)**]*
 
 ### Requirements
-- Python 3.8+
+- Python 3.7+
 - Additional Python Packages required for this chapter can be installed as follows -
 
 ```

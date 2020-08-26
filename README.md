@@ -294,7 +294,7 @@ You can install this using pip - `pip install notebook`.
 ## Requirements:
 - Summary of requirements for each Chapter:
 
-| Chapters    | Python 3\.8\+ | Zerodha Account | AlgoBulls Account |
+| Chapters    | Python 3\.7\+ | Zerodha Account | AlgoBulls Account |
 |:-----------:|:-------------:|:---------------:|:-----------------:|
 |  Chapter 1  | ✓             | ✗               | ✗                 |
 |  Chapter 2  | ✓             | ✓               | ✗                 |
