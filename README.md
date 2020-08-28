@@ -16,7 +16,7 @@ to handle time series data efficiently.
 
 *[**[Click here to VIEW Chapter 1 Jupyter Notebook on nbviewer](https://nbviewer.jupyter.org/github/PacktPublishing/Python-Algorithmic-Trading-Cookbook/blob/master/Chapter01/CHAPTER%201.ipynb)**]*
 <br>
-*[**[Click here to EXECUTE Chapter 1 Jupyter Notebook in the cloud using binder. No installation needed on your end.](https://mybinder.org/v2/gh/PacktPublishing/Python-Algorithmic-Trading-Cookbook/master?filepath=Chapter01/CHAPTER%201.ipynb)**]*
+*[**[Click here to RUN Chapter 1 Jupyter Notebook in the cloud using binder. No installation needed on your end.](https://mybinder.org/v2/gh/PacktPublishing/Python-Algorithmic-Trading-Cookbook/master?filepath=Chapter01/CHAPTER%201.ipynb)**]*
 
 ### Chapter 2: Stock Markets: Primer on Trading
 Learn how to setup Python connectivity with a broker, fetch financial instruments 
@@ -25,14 +25,14 @@ margins and calculating brokerage and government taxes.
 
 *[**[Click here to VIEW Chapter 2 Jupyter Notebook on nbviewer](https://nbviewer.jupyter.org/github/PacktPublishing/Python-Algorithmic-Trading-Cookbook/blob/master/Chapter02/CHAPTER%202.ipynb)**]*
 <br>
-*[**[Click here to EXECUTE Chapter 2 Jupyter Notebook in the cloud using binder. No installation needed on your end.](https://mybinder.org/v2/gh/PacktPublishing/Python-Algorithmic-Trading-Cookbook/master?filepath=Chapter02/CHAPTER%202.ipynb)**]*
+*[**[Click here to RUN Chapter 2 Jupyter Notebook in the cloud using binder. No installation needed on your end.](https://mybinder.org/v2/gh/PacktPublishing/Python-Algorithmic-Trading-Cookbook/master?filepath=Chapter02/CHAPTER%202.ipynb)**]*
 
 ### Chapter 3: Fetching Financial Data
 Learn everything about Financial Instruments in-depth.
 
 *[**[Click here to VIEW Chapter 3 Jupyter Notebook on nbviewer](https://nbviewer.jupyter.org/github/PacktPublishing/Python-Algorithmic-Trading-Cookbook/blob/master/Chapter03/CHAPTER%203.ipynb)**]*
 <br>
-*[**[Click here to EXECUTE Chapter 3 Jupyter Notebook in the cloud using binder. No installation needed on your end.](https://mybinder.org/v2/gh/PacktPublishing/Python-Algorithmic-Trading-Cookbook/master?filepath=Chapter03/CHAPTER%203.ipynb)**]*
+*[**[Click here to RUN Chapter 3 Jupyter Notebook in the cloud using binder. No installation needed on your end.](https://mybinder.org/v2/gh/PacktPublishing/Python-Algorithmic-Trading-Cookbook/master?filepath=Chapter03/CHAPTER%203.ipynb)**]*
 
 ### Chapter 4: Computing Candlesticks and Historical Data
 Learn how to fetch and understand historical data. Also learn how to fetch, compute 
@@ -41,7 +41,7 @@ and Heikin-Ashi.
 
 *[**[Click here to VIEW Chapter 4 Jupyter Notebook & interact with charts on nbviewer](https://nbviewer.jupyter.org/github/PacktPublishing/Python-Algorithmic-Trading-Cookbook/blob/master/Chapter04/CHAPTER%204.ipynb)**]*
 <br>
-*[**[Click here to EXECUTE Chapter 4 Jupyter Notebook in the cloud using binder. No installation needed on your end.](https://mybinder.org/v2/gh/PacktPublishing/Python-Algorithmic-Trading-Cookbook/master?filepath=Chapter04/CHAPTER%204.ipynb)**]*
+*[**[Click here to RUN Chapter 4 Jupyter Notebook in the cloud using binder. No installation needed on your end.](https://mybinder.org/v2/gh/PacktPublishing/Python-Algorithmic-Trading-Cookbook/master?filepath=Chapter04/CHAPTER%204.ipynb)**]*
 
 ### Chapter 5: Computing and Plotting Technical Indicators
 Learn how to compute and plot 10 types of Technical Indicators including Trend 
@@ -57,7 +57,7 @@ and the order life-cycle for Regular Orders.
 
 *[**[Click here to VIEW Chapter 6 Jupyter Notebook on nbviewer](https://nbviewer.jupyter.org/github/PacktPublishing/Python-Algorithmic-Trading-Cookbook/blob/master/Chapter06/CHAPTER%206.ipynb)**]*
 <br>
-*[**[Click here to EXECUTE Chapter 6 Jupyter Notebook in the cloud using binder. No installation needed on your end.](https://mybinder.org/v2/gh/PacktPublishing/Python-Algorithmic-Trading-Cookbook/master?filepath=Chapter06/CHAPTER%206.ipynb)**]*
+*[**[Click here to RUN Chapter 6 Jupyter Notebook in the cloud using binder. No installation needed on your end.](https://mybinder.org/v2/gh/PacktPublishing/Python-Algorithmic-Trading-Cookbook/master?filepath=Chapter06/CHAPTER%206.ipynb)**]*
 
 ### Chapter 7: Placing Bracket and Cover Orders on the Exchange
 Learn how to place 8 types of Bracket Orders and 4 types of Cover orders 
@@ -68,7 +68,7 @@ order life-cycle for both Bracket and Cover Orders.
 
 *[**[Click here to VIEW Chapter 7 Jupyter Notebook on nbviewer](https://nbviewer.jupyter.org/github/PacktPublishing/Python-Algorithmic-Trading-Cookbook/blob/master/Chapter07/CHAPTER%207.ipynb)**]*
 <br>
-*[**[Click here to EXECUTE Chapter 7 Jupyter Notebook in the cloud using binder. No installation needed on your end.](https://mybinder.org/v2/gh/PacktPublishing/Python-Algorithmic-Trading-Cookbook/master?filepath=Chapter07/CHAPTER%207.ipynb)**]*
+*[**[Click here to RUN Chapter 7 Jupyter Notebook in the cloud using binder. No installation needed on your end.](https://mybinder.org/v2/gh/PacktPublishing/Python-Algorithmic-Trading-Cookbook/master?filepath=Chapter07/CHAPTER%207.ipynb)**]*
 
 ### Chapter 8: Algorithmic Trading: Coding Strategies Step-by-Step
 Learn how to code your own algorithmic trading strategy from scratch using 
@@ -84,7 +84,7 @@ including P&L report, statistics report and order history log for your strategy.
 
 *[**[Click here to VIEW Chapter 9 Jupyter Notebook on nbviewer](https://nbviewer.jupyter.org/github/PacktPublishing/Python-Algorithmic-Trading-Cookbook/blob/master/Chapter09/CHAPTER%209.ipynb)**]*
 <br>
-*[**[Click here to EXECUTE Chapter 9 Jupyter Notebook in the cloud using binder. No installation needed on your end.](https://mybinder.org/v2/gh/PacktPublishing/Python-Algorithmic-Trading-Cookbook/master?filepath=Chapter09/CHAPTER%209.ipynb)**]*
+*[**[Click here to RUN Chapter 9 Jupyter Notebook in the cloud using binder. No installation needed on your end.](https://mybinder.org/v2/gh/PacktPublishing/Python-Algorithmic-Trading-Cookbook/master?filepath=Chapter09/CHAPTER%209.ipynb)**]*
 
 ### Chapter 10: Algorithmic Trading: Paper Trading
 Learn how to Paper Trade your own algorithmic trading strategy in live 
@@ -95,7 +95,7 @@ and order history log in real-time for your strategy.
 
 *[**[Click here to VIEW Chapter 10 Jupyter Notebook on nbviewer](https://nbviewer.jupyter.org/github/PacktPublishing/Python-Algorithmic-Trading-Cookbook/blob/master/Chapter10/CHAPTER%2010.ipynb)**]*
 <br>
-*[**[Click here to EXECUTE Chapter 10 Jupyter Notebook in the cloud using binder. No installation needed on your end.](https://mybinder.org/v2/gh/PacktPublishing/Python-Algorithmic-Trading-Cookbook/master?filepath=Chapter10/CHAPTER%2010.ipynb)**]*
+*[**[Click here to RUN Chapter 10 Jupyter Notebook in the cloud using binder. No installation needed on your end.](https://mybinder.org/v2/gh/PacktPublishing/Python-Algorithmic-Trading-Cookbook/master?filepath=Chapter10/CHAPTER%2010.ipynb)**]*
 
 ### Chapter 11: Algorithmic Trading: Real Trading
 Finally, learn how to Real Trade your own algorithmic trading strategy 
@@ -106,7 +106,7 @@ execution logs and various types of Real Trading reports including P&L
 
 *[**[Click here to VIEW Chapter 11 Jupyter Notebook on nbviewer](https://nbviewer.jupyter.org/github/PacktPublishing/Python-Algorithmic-Trading-Cookbook/blob/master/Chapter11/CHAPTER%2011.ipynb)**]*
 <br>
-*[**[Click here to EXECUTE Chapter 11 Jupyter Notebook in the cloud using binder. No installation needed on your end.](https://mybinder.org/v2/gh/PacktPublishing/Python-Algorithmic-Trading-Cookbook/master?filepath=Chapter11/CHAPTER%2011.ipynb)**]*
+*[**[Click here to RUN Chapter 11 Jupyter Notebook in the cloud using binder. No installation needed on your end.](https://mybinder.org/v2/gh/PacktPublishing/Python-Algorithmic-Trading-Cookbook/master?filepath=Chapter11/CHAPTER%2011.ipynb)**]*
 
 <a name = "recipes"/>
 
