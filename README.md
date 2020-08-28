@@ -41,7 +41,7 @@ and Heikin-Ashi.
 
 *[**[Click here to VIEW Chapter 4 Jupyter Notebook & interact with charts on nbviewer](https://nbviewer.jupyter.org/github/PacktPublishing/Python-Algorithmic-Trading-Cookbook/blob/master/Chapter04/CHAPTER%204.ipynb)**]*
 <br>
-*[**[Click here to EXECUTE Chapter 3 Jupyter Notebook in the cloud using binder. No installation needed on your end.](https://mybinder.org/v2/gh/PacktPublishing/Python-Algorithmic-Trading-Cookbook/master?filepath=Chapter04/CHAPTER%204.ipynb)**]*
+*[**[Click here to EXECUTE Chapter 4 Jupyter Notebook in the cloud using binder. No installation needed on your end.](https://mybinder.org/v2/gh/PacktPublishing/Python-Algorithmic-Trading-Cookbook/master?filepath=Chapter04/CHAPTER%204.ipynb)**]*
 
 ### Chapter 5: Computing and Plotting Technical Indicators
 Learn how to compute and plot 10 types of Technical Indicators including Trend 
