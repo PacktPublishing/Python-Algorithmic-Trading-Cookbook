@@ -2,7 +2,7 @@
 Learn how to code your own algorithmic trading strategy from scratch using 
 two strategy coding examples involving Regular and Bracket orders respectively. 
 
-*[**[Click here to view this Jupyter Notebook on nbviewer](https://nbviewer.jupyter.org/github/PacktPublishing/Python-Algorithmic-Trading-Cookbook/blob/master/Chapter08/CHAPTER%208.ipynb)**]*
+*[**[Click here to VIEW Chapter 8 Jupyter Notebook on nbviewer](https://nbviewer.jupyter.org/github/PacktPublishing/Python-Algorithmic-Trading-Cookbook/blob/master/Chapter08/CHAPTER%208.ipynb)**]*
 
 ### Requirements
 - Python 3.7+

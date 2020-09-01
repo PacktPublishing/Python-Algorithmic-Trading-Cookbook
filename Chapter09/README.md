@@ -4,7 +4,9 @@ strategy coding examples involving Regular and Bracket orders respectively.
 Also, learn to fetch execution logs and various types of Backtesting reports 
 including P&L report, statistics report and order history log for your strategy.
 
-*[**[Click here to view this Jupyter Notebook on nbviewer](https://nbviewer.jupyter.org/github/PacktPublishing/Python-Algorithmic-Trading-Cookbook/blob/master/Chapter09/CHAPTER%209.ipynb)**]*
+*[**[Click here to VIEW Chapter 9 Jupyter Notebook on nbviewer](https://nbviewer.jupyter.org/github/PacktPublishing/Python-Algorithmic-Trading-Cookbook/blob/master/Chapter09/CHAPTER%209.ipynb)**]*
+<br>
+*[**[Click here to RUN Chapter 9 Jupyter Notebook in the cloud using binder. No installation needed on your end.](https://mybinder.org/v2/gh/PacktPublishing/Python-Algorithmic-Trading-Cookbook/master?filepath=Chapter09/CHAPTER%209.ipynb)**]*
 
 ### Requirements
 - Python 3.7+

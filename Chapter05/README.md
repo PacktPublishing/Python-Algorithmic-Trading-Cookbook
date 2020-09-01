@@ -2,7 +2,7 @@
 Learn how to compute and plot 10 types of Technical Indicators including Trend 
 Indicators, Momentum Indicators, Volatility Indicators and Volume Indicators. 
 
-*[**[Click here to view this Jupyter Notebook & interact with charts on nbviewer](https://nbviewer.jupyter.org/github/PacktPublishing/Python-Algorithmic-Trading-Cookbook/blob/master/Chapter05/CHAPTER%205.ipynb)**]*
+*[**[Click here to VIEW Chapter 5 Jupyter Notebook & interact with charts on nbviewer](https://nbviewer.jupyter.org/github/PacktPublishing/Python-Algorithmic-Trading-Cookbook/blob/master/Chapter05/CHAPTER%205.ipynb)**]*
 
 ### Requirements
 - Python 3.7+

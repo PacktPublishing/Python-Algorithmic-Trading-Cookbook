@@ -3,7 +3,9 @@ Learn how to fetch and understand historical data. Also learn how to fetch, comp
 and plot various candlesticks patterns including Japanese (OHLC), Renko, Line Break 
 and Heikin-Ashi. 
 
-*[**[Click here to view this Jupyter Notebook & interact with charts on nbviewer](https://nbviewer.jupyter.org/github/PacktPublishing/Python-Algorithmic-Trading-Cookbook/blob/master/Chapter04/CHAPTER%204.ipynb)**]*
+*[**[Click here to VIEW Chapter 4 Jupyter Notebook & interact with charts on nbviewer](https://nbviewer.jupyter.org/github/PacktPublishing/Python-Algorithmic-Trading-Cookbook/blob/master/Chapter04/CHAPTER%204.ipynb)**]*
+<br>
+*[**[Click here to RUN Chapter 4 Jupyter Notebook in the cloud using binder. No installation needed on your end.](https://mybinder.org/v2/gh/PacktPublishing/Python-Algorithmic-Trading-Cookbook/master?filepath=Chapter04/CHAPTER%204.ipynb)**]*
 
 ### Requirements
 - Python 3.7+

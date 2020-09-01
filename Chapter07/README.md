@@ -5,7 +5,9 @@ order status in real-time. Learn about target, stoploss and trailing stoploss.
 Also, learn about the possible order states supported by the broker and the 
 order life-cycle for both Bracket and Cover Orders.
 
-*[**[Click here to view this Jupyter Notebook on nbviewer](https://nbviewer.jupyter.org/github/PacktPublishing/Python-Algorithmic-Trading-Cookbook/blob/master/Chapter07/CHAPTER%207.ipynb)**]*
+*[**[Click here to VIEW Chapter 7 Jupyter Notebook on nbviewer](https://nbviewer.jupyter.org/github/PacktPublishing/Python-Algorithmic-Trading-Cookbook/blob/master/Chapter07/CHAPTER%207.ipynb)**]*
+<br>
+*[**[Click here to RUN Chapter 7 Jupyter Notebook in the cloud using binder. No installation needed on your end.](https://mybinder.org/v2/gh/PacktPublishing/Python-Algorithmic-Trading-Cookbook/master?filepath=Chapter07/CHAPTER%207.ipynb)**]*
 
 ### Requirements
 - Python 3.7+
