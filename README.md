@@ -59,7 +59,7 @@ Also, almost every chapter expects you to have additional Python packages instal
 - Summary of requirements for each Chapter:
 
 | Chapters    | Python 3\.7\+ | Zerodha Account  | AlgoBulls Account |
-|-------------|---------------|------------------|-------------------|
+|:-----------:|:-------------:|:----------------:|:-----------------:|
 |  Chapter 1  | ✓             | ✗               | ✗                 |
 |  Chapter 2  | ✓             | ✓               | ✗                 |
 |  Chapter 3  | ✓             | ✓               | ✗                 |
@@ -84,12 +84,12 @@ $ pip install -r requirements.txt
 ```
 
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-13).
+With the following software and hardware list you can run all code files present in the book (Chapters 1-11).
 
 ### Software and Hardware List
 
 | Chapter  | Software required                                                                    | OS required                        |
-| -------- | -------------------------------------------------------------------------------------| -----------------------------------|
+| :------: | :-----------------------------------------------------------------------------------:| :---------------------------------:|
 | 1 - 11   |   Python 3.7+, Jupyter Notebook                                      						          | Windows, Mac OS X, and Linux (Any) |
 
 
@@ -102,7 +102,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 * Mastering Python for Finance - Second Edition [[Packt]](https://www.packtpub.com/product/mastering-python-for-finance-second-edition/9781789346466) [[Amazon]](https://www.amazon.com/dp/1789346460)
 
 ## Get to Know the Author
-**Pushpak Dagade** 
+**[Pushpak Dagade](https://www.linkedin.com/in/pushpak-dagade-47275121/)** 
 has been working in the area of algorithmic trading for more than 3 years. He is a co-founder and the CEO of AlgoBulls, an algorithmic trading platform. He is also a long time Pythonista with more than a decade of Python experience. He is a pass out from Indian Institute of Technology (Delhi) and holds engineering degrees in the fields of Computer Science, Electronics and Physics.
 
 
