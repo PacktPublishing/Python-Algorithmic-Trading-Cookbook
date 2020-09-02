@@ -103,7 +103,6 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 ## Get to Know the Author
 **Pushpak Dagade** 
-
 has been working in the area of algorithmic trading for more than 3 years. He is a co-founder and the CEO of AlgoBulls, an algorithmic trading platform. He is also a long time Pythonista with more than a decade of Python experience. He is a pass out from Indian Institute of Technology (Delhi) and holds engineering degrees in the fields of Computer Science, Electronics and Physics.
 
 
