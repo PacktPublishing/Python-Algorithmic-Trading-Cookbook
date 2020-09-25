@@ -83,6 +83,25 @@ $ cd <path-to-this-repo>/Chapter05
 $ pip install -r requirements.txt
 ```
 
+## Errata
+
+* Page 297 (Chapter 7, Recipe 5, Step 5): **TRIGGER PENDING** _should be_ **COMPLETE**
+
+* Page 379 (Chapter 9, Recipe 8, Step 2): In the code **instrument** _should be_ **instruments**
+
+* Page 379 (Chapter 9, Recipe 8, Step 3): **instrument = instrument[0]['value']** _should be_ **instrument = instruments[0]['value']**
+
+* Page 423 (Chapter 10, Recipe 7, Step 6): **49287246f9704bbcbad76ade9e2091d9** _should be_ **4faf514fe096432b8e9f80f5951bd2ea**
+
+* Page 427 (Chapters 10, Recipe 8, Step 2): In the code **instrument** _should be_ **instruments**
+
+* Page 427 (Chapters 10, Recipe 8, Step 3): **instrument = instrument[0]['value']** _should be_ **instrument = instruments[0]['value']**
+
+* Page 471 (Chapter 11, Recipe 7, Step 2): In the code **instrument** _should be_ **instruments**
+
+* Page 471 (Chapter 11, Recipe 7, Step 3): **instrument = instrument[0]['value']** _should be_ **instrument = instruments[0]['value']**
+
+* Page 467 (Chapter 11, Recipe 6, Step 6): **49287246f9704bbcbad76ade9e2091d9** _should be_ **4faf514fe096432b8e9f80f5951bd2ea**
 
 With the following software and hardware list you can run all code files present in the book (Chapters 1-11).
 
@@ -105,6 +124,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 **[Pushpak Dagade](https://www.linkedin.com/in/pushpak-dagade-47275121/)** 
 has been working in the area of algorithmic trading for more than 3 years. He is a co-founder and the CEO of AlgoBulls, an algorithmic trading platform. He is also a long time Pythonista with more than a decade of Python experience. He is a pass out from Indian Institute of Technology (Delhi) and holds engineering degrees in the fields of Computer Science, Electronics and Physics.
 
+If you have any doubts related to the concepts or code samples in the book, you can ask it in the [Algobulls forum](https://community.algobulls.com/t/about-the-python-algorithmic-trading-cookbook-category/58) created by the author.
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
