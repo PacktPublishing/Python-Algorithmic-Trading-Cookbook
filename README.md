@@ -124,7 +124,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 **[Pushpak Dagade](https://www.linkedin.com/in/pushpak-dagade-47275121/)** 
 has been working in the area of algorithmic trading for more than 3 years. He is a co-founder and the CEO of AlgoBulls, an algorithmic trading platform. He is also a long time Pythonista with more than a decade of Python experience. He is a pass out from Indian Institute of Technology (Delhi) and holds engineering degrees in the fields of Computer Science, Electronics and Physics.
 
-If you have any doubts related to the concepts or code samples in the book, you can ask it in the [Algobulls forum](https://community.algobulls.com/t/about-the-python-algorithmic-trading-cookbook-category/58) created by the author.
+If you have any doubts related to the concepts or code samples in the book, you can ask it in the [AlgoBulls forum](https://community.algobulls.com/t/about-the-python-algorithmic-trading-cookbook-category/58) created by the author.
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
