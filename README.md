@@ -103,6 +103,8 @@ $ pip install -r requirements.txt
 
 * Page 467 (Chapter 11, Recipe 6, Step 6): **49287246f9704bbcbad76ade9e2091d9** _should be_ **4faf514fe096432b8e9f80f5951bd2ea**
 
+* Chapter 5: All instances of **plot_candlesticks_chart** in the code format (```plot_candlesticks_chart```) _should be_ **plot_candlestick_chart** 
+
 With the following software and hardware list you can run all code files present in the book (Chapters 1-11).
 
 ### Software and Hardware List
